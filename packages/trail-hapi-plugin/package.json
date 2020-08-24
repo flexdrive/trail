@@ -1,5 +1,5 @@
 {
-  "name": "@nearform/trail-hapi-plugin",
+  "name": "@flexdrive/trail-hapi-plugin",
   "version": "4.0.0",
   "description": "Hapi plugin for the audit trail logging service",
   "license": "MIT",

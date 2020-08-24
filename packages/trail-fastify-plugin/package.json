@@ -1,5 +1,5 @@
 {
-  "name": "@nearform/trail-fastify-plugin",
+  "name": "@flexdrive/trail-fastify-plugin",
   "version": "4.0.0",
   "description": "Fastify plugin for the audit trail logging service",
   "license": "MIT",
