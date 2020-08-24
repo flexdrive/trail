@@ -1,6 +1,6 @@
 {
   "name": "@flexdrive/trail-core",
-  "version": "4.0.0",
+  "version": "4.0.1-alpha.0",
   "description": "Audit trail logging service",
   "license": "MIT",
   "author": "nearForm Ltd",
@@ -18,7 +18,7 @@
   "repository": {
     "type": "git",
     "url": "ssh://git@github.com/flexdrive/trail.git",
-    "directory":"packages/trail-core"
+    "directory": "packages/trail-core"
   },
   "bugs": {
     "url": "https://github.com/nearform/trail/issues"
@@ -28,7 +28,7 @@
   },
   "publishConfig": {
     "access": "public",
-    "registry":"https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com"
   },
   "main": "lib/index.js",
   "bin": {
