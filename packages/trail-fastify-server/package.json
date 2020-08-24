@@ -1,6 +1,6 @@
 {
   "name": "@flexdrive/trail-fastify-server",
-  "version": "4.0.1-alpha.0",
+  "version": "4.0.2-alpha.0",
   "description": "Server running Fastify plugin for the audit trail logging service",
   "license": "MIT",
   "author": "nearForm Ltd",
