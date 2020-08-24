@@ -14,7 +14,8 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nearform/trail.git"
+    "url": "ssh://git@github.com/flexdrive/trail.git",
+    "directory":"packages/trail-fastify-plugin"
   },
   "bugs": {
     "url": "https://github.com/nearform/trail/issues"
@@ -23,7 +24,8 @@
     "node": ">=12.0.0"
   },
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry":"https://npm.pkg.github.com"
   },
   "main": "lib/index.js",
   "scripts": {
